@@ -1,0 +1,15 @@
+{
+  "name": "programacion-v",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "node app.js",
+    "suma": "node operaciones/suma.js",
+    "sub":"node operaciones/basic/sub.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
