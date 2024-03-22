@@ -6,7 +6,9 @@
   "scripts": {
     "app": "node app.js",
     "suma": "node operaciones/suma.js",
-    "sub":"node operaciones/basic/sub.js"
+    "sub":"node operaciones/basic/sub.js",
+    "operadores": "node operaciones/operadores.js",
+    "operadoreslogicos":"node operaciones/operadoreslogicos.js"  
 
   },
   "keywords": [],
