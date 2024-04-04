@@ -19,12 +19,19 @@ console.log(brand != "Mazda"); //true
 //estrictamente diferente !==
 
 let numberA = 10;
-let responseA =numberA != "10";
-console.log(`${numberA} !== '10'= ${responseA}`);
-let responseD = numberA !=="10";
-console.log(`${numberA} !== '10'= ${responseD}`);
+//solo un = valida el numero 
+let responseA = numberA !="10";
+console.log(`${numberA} != '10' = ${responseA}`);
+//con el == valida tipo de nato numero
+let responsec = numberA !=="10";
+console.log(`${numberA} != '10' = ${responsec}`);
 
-//mayor<
-console.log(`counter >10 ? ${counter> 10}`);
-console.log(`counter >=99
- ? ${counter> 10}`);
+//mayor >
+
+console.log(`counter > 10 ?${counter >10}`);
+console.log(`counter >= 99 ?${counter >=99}`);
+
+//menor <
+console.log(`counter < 10 ?${counter <10 }`);
+console.log(`counter <= 100 ?${counter <=100}`);
+

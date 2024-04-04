@@ -6,7 +6,9 @@
 
 'midudev'.indexOf('midu')  // true
 
-'midudev'. startsWith('midu')  //true
+console.log('midudev'. startsWith('midu'));  //true}
+
+console.log("hola dianita");
 
 'midudev'.endsWith('paint') //false
  
