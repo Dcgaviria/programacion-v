@@ -4,17 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "app": "node app.js",
-    "suma": "node operaciones/suma.js",
-    "variables":"node operaciones/variables.js",
-    "operadores_Aritmeticos": "node operaciones/operadoresAritmeticos.js",
-    "operadores_logicos":"node operaciones/operadores_logicos.js",
-    "operadores_Comparacion":"nodeo operaciones/operadoresComparacion.js ",
-    "metodos_String": "node operaciones/metodosString.js"
-  
+    "intro_function": "operaciones/01_intro_functions.js",
+    "operadores_aritmeticos": "operaciones/02_operadores_aritmeticos.js",
+    "operadores_comparativos":"operaciones/03_operadores_comparativos.js",
+    "string_metodos": "operaciones/04_string_metodos.js",
+    "operadores_logicos":"operaciones/05_operadores_logicos.jss",
+    "arrays":"operaciones/06_arrays.js ",
+    "objets": "operaciones/07_objets.js",
+    "while":"operaciones/08_whyle.js",
+    "hacer_mientras":"noperaciones/09_hacer_mientras.js",
+    "para":"operaciones/10_para.js",
+    "funciones":"operaciones/11_funciones.js"
+    
 
   },
   "keywords": [],
-  "author": "",
+  "author": "diana carolina morales",
   "license": "ISC"
 }

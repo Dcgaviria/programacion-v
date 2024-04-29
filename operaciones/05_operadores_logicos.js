@@ -26,6 +26,7 @@
  console.log("metodos de string mas usados" .length);
  'midudev'[1];
  console.log("metodos de string mas usados" );
+ 
  'midudev'.includes('dev')
  
  // NOT->
